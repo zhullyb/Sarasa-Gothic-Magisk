@@ -547,46 +547,46 @@
     </family>
     <!-- 日语环境下的中文字体 -->
     <family lang="ja">
-        <font weight="100" style="normal">sarasa-gothic-j-extralight.ttf</font>
-        <font weight="100" style="italic">sarasa-gothic-j-extralightitalic.ttf</font>
-        <font weight="200" style="normal">sarasa-gothic-j-light.ttf</font>
-        <font weight="200" style="italic">sarasa-gothic-j-lightitalic.ttf</font>
-        <font weight="300" style="normal">sarasa-gothic-j-light.ttf</font>
-        <font weight="300" style="italic">sarasa-gothic-j-lightitalic.ttf</font>
-        <font weight="400" style="normal">sarasa-gothic-j-regular.ttf</font>
-        <font weight="400" style="italic">sarasa-gothic-j-italic.ttf</font>
-        <font weight="500" style="normal">sarasa-gothic-j-semibold.ttf</font>
-        <font weight="500" style="italic">sarasa-gothic-j-semibolditalic.ttf</font>
-        <font weight="600" style="normal">sarasa-gothic-j-semibold.ttf</font>
-        <font weight="600" style="italic">sarasa-gothic-j-semibolditalic.ttf</font>
-        <font weight="700" style="normal">sarasa-gothic-j-bold.ttf</font>
-        <font weight="700" style="italic">sarasa-gothic-j-bolditalic.ttf</font>
-        <font weight="800" style="normal">sarasa-gothic-j-bold.ttf</font>
-        <font weight="800" style="italic">sarasa-gothic-j-bolditalic.ttf</font>
-        <font weight="900" style="normal">sarasa-gothic-j-bold.ttf</font>
-        <font weight="900" style="italic">sarasa-gothic-j-bolditalic.ttf</font>
+        <font weight="100" style="normal">sarasa-gothic-sc-extralight.ttf</font>
+        <font weight="100" style="italic">sarasa-gothic-sc-extralightitalic.ttf</font>
+        <font weight="200" style="normal">sarasa-gothic-sc-light.ttf</font>
+        <font weight="200" style="italic">sarasa-gothic-sc-lightitalic.ttf</font>
+        <font weight="300" style="normal">sarasa-gothic-sc-light.ttf</font>
+        <font weight="300" style="italic">sarasa-gothic-sc-lightitalic.ttf</font>
+        <font weight="400" style="normal">sarasa-gothic-sc-regular.ttf</font>
+        <font weight="400" style="italic">sarasa-gothic-sc-italic.ttf</font>
+        <font weight="500" style="normal">sarasa-gothic-sc-semibold.ttf</font>
+        <font weight="500" style="italic">sarasa-gothic-sc-semibolditalic.ttf</font>
+        <font weight="600" style="normal">sarasa-gothic-sc-semibold.ttf</font>
+        <font weight="600" style="italic">sarasa-gothic-sc-semibolditalic.ttf</font>
+        <font weight="700" style="normal">sarasa-gothic-sc-bold.ttf</font>
+        <font weight="700" style="italic">sarasa-gothic-sc-bolditalic.ttf</font>
+        <font weight="800" style="normal">sarasa-gothic-sc-bold.ttf</font>
+        <font weight="800" style="italic">sarasa-gothic-sc-bolditalic.ttf</font>
+        <font weight="900" style="normal">sarasa-gothic-sc-bold.ttf</font>
+        <font weight="900" style="italic">sarasa-gothic-sc-bolditalic.ttf</font>
         <font weight="400" style="normal" index="0" fallbackFor="serif">NotoSerifCJK-Regular.ttc</font>
     </family>
     <!-- 韩语环境下的中文字体 -->
     <family lang="ko">
-        <font weight="100" style="normal">sarasa-gothic-k-extralight.ttf</font>
-        <font weight="100" style="italic">sarasa-gothic-k-extralightitalic.ttf</font>
-        <font weight="200" style="normal">sarasa-gothic-k-light.ttf</font>
-        <font weight="200" style="italic">sarasa-gothic-k-lightitalic.ttf</font>
-        <font weight="300" style="normal">sarasa-gothic-k-light.ttf</font>
-        <font weight="300" style="italic">sarasa-gothic-k-lightitalic.ttf</font>
-        <font weight="400" style="normal">sarasa-gothic-k-regular.ttf</font>
-        <font weight="400" style="italic">sarasa-gothic-k-italic.ttf</font>
-        <font weight="500" style="normal">sarasa-gothic-k-semibold.ttf</font>
-        <font weight="500" style="italic">sarasa-gothic-k-semibolditalic.ttf</font>
-        <font weight="600" style="normal">sarasa-gothic-k-semibold.ttf</font>
-        <font weight="600" style="italic">sarasa-gothic-k-semibolditalic.ttf</font>
-        <font weight="700" style="normal">sarasa-gothic-k-bold.ttf</font>
-        <font weight="700" style="italic">sarasa-gothic-k-bolditalic.ttf</font>
-        <font weight="800" style="normal">sarasa-gothic-k-bold.ttf</font>
-        <font weight="800" style="italic">sarasa-gothic-k-bolditalic.ttf</font>
-        <font weight="900" style="normal">sarasa-gothic-k-bold.ttf</font>
-        <font weight="900" style="italic">sarasa-gothic-k-bolditalic.ttf</font>
+        <font weight="100" style="normal">sarasa-gothic-sc-extralight.ttf</font>
+        <font weight="100" style="italic">sarasa-gothic-sc-extralightitalic.ttf</font>
+        <font weight="200" style="normal">sarasa-gothic-sc-light.ttf</font>
+        <font weight="200" style="italic">sarasa-gothic-sc-lightitalic.ttf</font>
+        <font weight="300" style="normal">sarasa-gothic-sc-light.ttf</font>
+        <font weight="300" style="italic">sarasa-gothic-sc-lightitalic.ttf</font>
+        <font weight="400" style="normal">sarasa-gothic-sc-regular.ttf</font>
+        <font weight="400" style="italic">sarasa-gothic-sc-italic.ttf</font>
+        <font weight="500" style="normal">sarasa-gothic-sc-semibold.ttf</font>
+        <font weight="500" style="italic">sarasa-gothic-sc-semibolditalic.ttf</font>
+        <font weight="600" style="normal">sarasa-gothic-sc-semibold.ttf</font>
+        <font weight="600" style="italic">sarasa-gothic-sc-semibolditalic.ttf</font>
+        <font weight="700" style="normal">sarasa-gothic-sc-bold.ttf</font>
+        <font weight="700" style="italic">sarasa-gothic-sc-bolditalic.ttf</font>
+        <font weight="800" style="normal">sarasa-gothic-sc-bold.ttf</font>
+        <font weight="800" style="italic">sarasa-gothic-sc-bolditalic.ttf</font>
+        <font weight="900" style="normal">sarasa-gothic-sc-bold.ttf</font>
+        <font weight="900" style="italic">sarasa-gothic-sc-bolditalic.ttf</font>
         <font weight="400" style="normal" index="1" fallbackFor="serif">NotoSerifCJK-Regular.ttc</font>
     </family>
     <!-- 大陆简体环境下的中文字体 -->
@@ -613,46 +613,46 @@
     </family>
     <!-- 香港繁体环境下的中文字体 -->
     <family lang="zh-Hant">
-        <font weight="100" style="normal">sarasa-gothic-hc-extralight.ttf</font>
-        <font weight="100" style="italic">sarasa-gothic-hc-extralightitalic.ttf</font>
-        <font weight="200" style="normal">sarasa-gothic-hc-light.ttf</font>
-        <font weight="200" style="italic">sarasa-gothic-hc-lightitalic.ttf</font>
-        <font weight="300" style="normal">sarasa-gothic-hc-light.ttf</font>
-        <font weight="300" style="italic">sarasa-gothic-hc-lightitalic.ttf</font>
-        <font weight="400" style="normal">sarasa-gothic-hc-regular.ttf</font>
-        <font weight="400" style="italic">sarasa-gothic-hc-italic.ttf</font>
-        <font weight="500" style="normal">sarasa-gothic-hc-semibold.ttf</font>
-        <font weight="500" style="italic">sarasa-gothic-hc-semibolditalic.ttf</font>
-        <font weight="600" style="normal">sarasa-gothic-hc-semibold.ttf</font>
-        <font weight="600" style="italic">sarasa-gothic-hc-semibolditalic.ttf</font>
-        <font weight="700" style="normal">sarasa-gothic-hc-bold.ttf</font>
-        <font weight="700" style="italic">sarasa-gothic-hc-bolditalic.ttf</font>
-        <font weight="800" style="normal">sarasa-gothic-hc-bold.ttf</font>
-        <font weight="800" style="italic">sarasa-gothic-hc-bolditalic.ttf</font>
-        <font weight="900" style="normal">sarasa-gothic-hc-bold.ttf</font>
-        <font weight="900" style="italic">sarasa-gothic-hc-bolditalic.ttf</font>
+        <font weight="100" style="normal">sarasa-gothic-sc-extralight.ttf</font>
+        <font weight="100" style="italic">sarasa-gothic-sc-extralightitalic.ttf</font>
+        <font weight="200" style="normal">sarasa-gothic-sc-light.ttf</font>
+        <font weight="200" style="italic">sarasa-gothic-sc-lightitalic.ttf</font>
+        <font weight="300" style="normal">sarasa-gothic-sc-light.ttf</font>
+        <font weight="300" style="italic">sarasa-gothic-sc-lightitalic.ttf</font>
+        <font weight="400" style="normal">sarasa-gothic-sc-regular.ttf</font>
+        <font weight="400" style="italic">sarasa-gothic-sc-italic.ttf</font>
+        <font weight="500" style="normal">sarasa-gothic-sc-semibold.ttf</font>
+        <font weight="500" style="italic">sarasa-gothic-sc-semibolditalic.ttf</font>
+        <font weight="600" style="normal">sarasa-gothic-sc-semibold.ttf</font>
+        <font weight="600" style="italic">sarasa-gothic-sc-semibolditalic.ttf</font>
+        <font weight="700" style="normal">sarasa-gothic-sc-bold.ttf</font>
+        <font weight="700" style="italic">sarasa-gothic-sc-bolditalic.ttf</font>
+        <font weight="800" style="normal">sarasa-gothic-sc-bold.ttf</font>
+        <font weight="800" style="italic">sarasa-gothic-sc-bolditalic.ttf</font>
+        <font weight="900" style="normal">sarasa-gothic-sc-bold.ttf</font>
+        <font weight="900" style="italic">sarasa-gothic-sc-bolditalic.ttf</font>
         <font weight="400" style="normal" index="3" fallbackFor="serif">NotoSerifCJK-Regular.ttc</font>
     </family>
     <!-- 台湾繁体环境下的中文字体 -->
     <family lang="zh-Bopo">
-        <font weight="100" style="normal">sarasa-gothic-tc-extralight.ttf</font>
-        <font weight="100" style="italic">sarasa-gothic-tc-extralightitalic.ttf</font>
-        <font weight="200" style="normal">sarasa-gothic-tc-light.ttf</font>
-        <font weight="200" style="italic">sarasa-gothic-tc-lightitalic.ttf</font>
-        <font weight="300" style="normal">sarasa-gothic-tc-light.ttf</font>
-        <font weight="300" style="italic">sarasa-gothic-tc-lightitalic.ttf</font>
-        <font weight="400" style="normal">sarasa-gothic-tc-regular.ttf</font>
-        <font weight="400" style="italic">sarasa-gothic-tc-italic.ttf</font>
-        <font weight="500" style="normal">sarasa-gothic-tc-semibold.ttf</font>
-        <font weight="500" style="italic">sarasa-gothic-tc-semibolditalic.ttf</font>
-        <font weight="600" style="normal">sarasa-gothic-tc-semibold.ttf</font>
-        <font weight="600" style="italic">sarasa-gothic-tc-semibolditalic.ttf</font>
-        <font weight="700" style="normal">sarasa-gothic-tc-bold.ttf</font>
-        <font weight="700" style="italic">sarasa-gothic-tc-bolditalic.ttf</font>
-        <font weight="800" style="normal">sarasa-gothic-tc-bold.ttf</font>
-        <font weight="800" style="italic">sarasa-gothic-tc-bolditalic.ttf</font>
-        <font weight="900" style="normal">sarasa-gothic-tc-bold.ttf</font>
-        <font weight="900" style="italic">sarasa-gothic-tc-bolditalic.ttf</font>
+        <font weight="100" style="normal">sarasa-gothic-sc-extralight.ttf</font>
+        <font weight="100" style="italic">sarasa-gothic-sc-extralightitalic.ttf</font>
+        <font weight="200" style="normal">sarasa-gothic-sc-light.ttf</font>
+        <font weight="200" style="italic">sarasa-gothic-sc-lightitalic.ttf</font>
+        <font weight="300" style="normal">sarasa-gothic-sc-light.ttf</font>
+        <font weight="300" style="italic">sarasa-gothic-sc-lightitalic.ttf</font>
+        <font weight="400" style="normal">sarasa-gothic-sc-regular.ttf</font>
+        <font weight="400" style="italic">sarasa-gothic-sc-italic.ttf</font>
+        <font weight="500" style="normal">sarasa-gothic-sc-semibold.ttf</font>
+        <font weight="500" style="italic">sarasa-gothic-sc-semibolditalic.ttf</font>
+        <font weight="600" style="normal">sarasa-gothic-sc-semibold.ttf</font>
+        <font weight="600" style="italic">sarasa-gothic-sc-semibolditalic.ttf</font>
+        <font weight="700" style="normal">sarasa-gothic-sc-bold.ttf</font>
+        <font weight="700" style="italic">sarasa-gothic-sc-bolditalic.ttf</font>
+        <font weight="800" style="normal">sarasa-gothic-sc-bold.ttf</font>
+        <font weight="800" style="italic">sarasa-gothic-sc-bolditalic.ttf</font>
+        <font weight="900" style="normal">sarasa-gothic-sc-bold.ttf</font>
+        <font weight="900" style="italic">sarasa-gothic-sc-bolditalic.ttf</font>
         <font weight="400" style="normal" index="3" fallbackFor="serif">NotoSerifCJK-Regular.ttc</font>
     </family>
     <family lang="und-Zsye">
